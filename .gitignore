@@ -9,13 +9,16 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
+bin/
+include/
+share/
+lib64/
 develop-eggs/
 dist/
 downloads/
 eggs/
 .eggs/
 lib/
-lib64/
 parts/
 sdist/
 var/
